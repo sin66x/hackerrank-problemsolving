@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# https://www.hackerrank.com/challenges/compare-the-triplets/problem
 import math
 import os
 import random
